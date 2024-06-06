@@ -1,7 +1,7 @@
 
 # 🏷️ Project Name
 
-Implementation of the Peterson Algorithm and Bakery Algorithm.
+Implementation of the Filter Lock.
 
 ---
 ## 🗂️ Table Of Contents
@@ -16,7 +16,6 @@ Implementation of the Peterson Algorithm and Bakery Algorithm.
 
 ## 📚 Project Overview
 
-Implementation of the Filter Lock.
 This implementation also includes fairness and caters for startation and deadlock scenarios.
 
 ---
@@ -47,18 +46,11 @@ Can be run in vs code or terminal.
 
 ## 🏃🏻‍♂️ Running The Project
 
-1. Run the ThreadDemoCounter.java file for task 1
-2. Run the ThreadDemoCounter.java file for task 2
-3. Run the ThreadDemoCounter.java file for task 3
+1. Run the ThreadATMDemo.java file for task 1
+2. Run the ThreadATMDemo.java file for task 2
 
 ---
 
 ## 📷 Screenshots
 
-![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.15.50.png)
-
-![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.15.59.png)
-
-![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.29.01.png)
-
-![threads](https://github.com/kieran-woodrow/Peterson-Algorithm-and-Bakery-Algorithm/blob/main/Assets/Screenshot%202024-06-05%20at%2015.29.20.png)
+![threads](https://github.com/kieran-woodrow/locking-methods/tree/main/Assets)
