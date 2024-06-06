@@ -24,7 +24,7 @@ This implementation also includes fairness and caters for startation and deadloc
 
 ### Project code language used
 
- ![Java](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💻 IDE
 
